@@ -179,23 +179,23 @@ certifications:
  #       link: "#"
  #       tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#oss:
-#    title: OSS Contributions
+oss:
+    title: Unterstützte karitative Organisationen
 #    intro: >
 #      You can list your open source software contributions in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    contributions:
+      - title: "Ein Herz für die Kinder" Stiftung, Budapest
+        link: https://www.egysziv.hu/
+        tagline: "Die Stiftung unterstüzt die medizinische Behandlung von ungarischen Kindern im Ausland, damit wird der Zugang zu Therapien ermöglicht, die in ihrer Heimat nicht zur Verfügung stehen. "
 
-#      - title: Delta
-#        link: "#"
+      - title: Perros de Catalunya e.V.
+        link: https://www.perros-de-catalunya.de/
+        tagline: Verantwortungsvolle Vermittlung von Hunden aus Tierheimen und Tötungsstationen in Zentralspanien, Andalusien und Granada. Unterstützung von Partnerorganisationen in Spanien bei Kastrationsprojekten, Aufklärungskampagnen in Schulen sowie Futterpatenschaften 
+
+      - title: Arbeiter-Samaritär-Bund Deutschland e.V.
+        link: https://www.asb.de/
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
