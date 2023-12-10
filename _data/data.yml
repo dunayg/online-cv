@@ -55,14 +55,10 @@ sidebar:
          # link:
 
 career-profile:
-    title: Facharzt für Kinder- und Jugendmedizin
-   # summary: |
-    #  Summarise your career here lorem ipsum dolor sit amet, consectetuer
-     # adipiscing elit. You can [download this free resume/CV template here]().
-     # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-     # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-     # Donec quam felis, ultricies nec, pellentesque eu.
-     # Second paragraph if required.
+    title: Kinderarzt
+    summary: |
+    Weiterbildung Schwerpunkt Kindergastroenterologie
+    
 education:
     title: Akademische Ausbildung
     info:
@@ -92,6 +88,11 @@ education:
 experiences:
     title: Beruflicher Werdegang
     info:
+    
+      - role: Facharzt Kinderheilkunde
+        time: 2023 - 
+        company: Universitätsklinikum Brandenburg an der Havel, Klinikum Westbrandenburg GmbH Potsdam
+     
       - role: Weiterbildungsassistent Kinderheilkunde, Clinician-Scientist
         time: 2016 - 2023
         company: Klinik für Kinder- und Jugendmedizin, Universitätsklinikum Hamburg-Eppendorf (UKE)
@@ -118,8 +119,8 @@ certifications:
       title: Zertifizierungen
       list:
         - name: Facharzt für Kinder- und Jugendmedizin
-    #      start: 2020
-          end: 2023
+          start: 2023
+   #       end: 2023
           organization: Ärztekammer Hamburg
    #       credentialid: 111-222
     #      credentialurl: www.google.com
@@ -139,8 +140,8 @@ certifications:
        #     justo diam viverra velit, sed rhoncus leo leo eu justo.
        #     Suspendisse placerat risus ante, sed porta nisi blandit at.
         - name: Approbation als Arzt
-       #   start: 
-          end: 2016
+          start: 2016 
+      #    end: 2016
           organization: Freie und Hansestadt Hamburg
        #   credentialid: 111-222
         #  credentialurl: www.github.com
@@ -199,26 +200,41 @@ certifications:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: Ausgewählte Veröffentlichungen
+ #   intro: |
+ #     You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+ #     bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: In-depth virological and immunological characterization of HIV-1 cure after CCR5Δ32/Δ32 allogeneic hematopoietic stem cell transplantation
+        link: https://doi.org/10.1038/s41591-023-02213-x
+        authors: Jensen BO, Knops E, Cords L, Lübke N, Salgado M, Busman-Sahay K, Estes JD, Huyveneers LEP, Perdomo-Celis F, Wittner M, Gálvez C, Mummert C, Passaes C, Eberhard JM, Münk C, Hauber I, Hauber J, Heger E, De Clercq J, Vandekerckhove L, Bergmann S, Dunay GA, Klein F, Häussinger D, Fischer JC, Nachtkamp K, Timm J, Kaiser R, Harrer T, Luedde T, Nijhuis M, Sáez-Cirión A, Schulze Zur Wiesch J, Wensing AMJ, Martinez-Picado J, Kobbe G
+        conference: Nat Med. 2023 Mar;29(3):583-587
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Long-Term Antibody Response to SARS-CoV-2 in Children
+        link: https://doi.org/10.1007/s10875-022-01355-w
+        authors: Dunay GA, Barroso M, Woidy M, Danecka MK, Engels G, Hermann K, Neumann FS, Paul K, Beime J, Escherich G, Fehse K, Grinstein L, Haniel F, Haupt LJ, Hecher L, Kehl T, Kemen C, Kemper MJ, Kobbe R, Kohl A, Klokow T, Nörz D, Olfe J, Schlenker F, Schmiesing J, Schrum J, Sibbertsen F, Stock P, Tiede S, Vettorazzi E, Zazara DE, Zapf A, Lütgehetmann M, Oh J, Mir TS, Muntau AC, Gersting SW; C19.CHILD Study Group
+        conference: J Clin Immunol. 2023 Jan;43(1):46-56
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Specific CD4+ T Cell Responses to Ancestral SARS-CoV-2 in Children Increase With Age and Show Cross-Reactivity to Beta Variant
+        link: https://doi.org/10.3389/fimmu.2022.867577
+        authors: Paul K, Sibbertsen F, Weiskopf D, Lütgehetmann M, Barroso M, Danecka MK, Glau L, Hecher L, Hermann K, Kohl A, Oh J, Schulze Zur Wiesch J, Sette A, Tolosa E, Vettorazzi E, Woidy M, Zapf A, Zazara DE, Mir TS, Muntau AC, Gersting SW, Dunay GA
+        conference: Front Immunol. 2022 Jul 15;13:867577
+        
+      - title: Assessment of the HIV-1 reservoir in CD4+ regulatory T cells by a Droplet Digital PCR based approach 
+        link: https://doi.org/10.1016/j.virusres.2017.07.008
+        authors: Dunay GA, Solomatina A, Kummer S, Hüfner A, Bialek JK, Eberhard JM, Tolosa E, Hauber J, Schulze Zur Wiesch J
+        conference: Virus Res. 2017 Aug 15;240:107-111
+   
+      - title: Targeted HIV-1 Latency Reversal Using CRISPR/Cas9-Derived Transcriptional Activator Systems 
+        link: https://doi.org/10.1371/journal.pone.0158294
+        authors: Bialek JK, Dunay GA, Voges M, Schäfer C, Spohn M, Stucka R, Hauber J, Lange UC
+        conference: PLoS One. 2016 Jun 24;11(6):e0158294
+        
+      - title: Depressed calcium cycling contributes to lower ischemia tolerance in hearts of estrogen-deficient rats 
+        link: https://doi.org/10.1097/gme.0000000000000377
+        authors: Dunay GA, Paragi P, Sára L, Ács N, Balázs B, Ágoston V, Répás C, Ivanics T, Miklós Z
+        conference: Menopause. 2015 Jul;22(7):773-82
 
 #skills:
  #   title: Skills &amp; Proficiency
