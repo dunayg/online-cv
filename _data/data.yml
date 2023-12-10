@@ -17,8 +17,8 @@ sidebar:
    # phone: 
     #timezone: America/Cancun Timezone
     #citizenship:
-    website:  #do not add http://
-    linkedin: alandoe
+    website: https://www.facebook.com/gabor.dunay/  #do not add http://
+    linkedin: gábor-a-dunay-51434171
     #xing: alandoe
     #github: sharu725
     telegram: # add your nickname without '@' sign
@@ -56,40 +56,40 @@ sidebar:
 
 career-profile:
     title: Facharzt für Kinder- und Jugendmedizin
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+   # summary: |
+    #  Summarise your career here lorem ipsum dolor sit amet, consectetuer
+     # adipiscing elit. You can [download this free resume/CV template here]().
+     # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+     # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+     # Donec quam felis, ultricies nec, pellentesque eu.
+     # Second paragraph if required.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
         university: University of London
         time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+   #     details: |
+  #        Describe your study here lorem ipsum dolor sit amet, consectetuer
+  #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+   #       sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+     #     pretium quis, sem.
+      #      - Bullet point
+       #     - Bullet point
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+       # details: |
+        #  Describe your study here lorem ipsum dolor sit amet, consectetuer
+         # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          #sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+ #         pretium quis, sem.
+  #          - Bullet point
+#            - Bullet point
 
-experiences:
+#experiences:
     title: Experiences
     info:
       - role: Lead Developer
@@ -171,7 +171,7 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
+#projects:
     title: Projects
     intro: >
       You can list your side projects in this
@@ -198,7 +198,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
+#oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -239,7 +239,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
+#skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -261,5 +261,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
+#footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
