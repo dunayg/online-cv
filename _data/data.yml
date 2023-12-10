@@ -89,7 +89,7 @@ education:
   #          - Bullet point
 #            - Bullet point
 
-#experiences:
+experiences:
     title: Experiences
     info:
       - role: Lead Developer
@@ -171,7 +171,7 @@ certifications:
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
 
-#projects:
+projects:
     title: Projects
     intro: >
       You can list your side projects in this
@@ -198,7 +198,7 @@ certifications:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-#oss:
+oss:
     title: OSS Contributions
     intro: >
       You can list your open source software contributions in this
@@ -239,7 +239,7 @@ publications:
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
-#skills:
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
@@ -261,5 +261,5 @@ publications:
       - name: Sketch & Photoshop
         level: 60%
 
-#footer: >
+footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
