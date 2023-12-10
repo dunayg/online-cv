@@ -42,16 +42,16 @@ sidebar:
         - idiom: Englisch
           level: Experte
 
-    #interests:
-     # title: Interests
-      #info:
-       # - item: Climbing
+    interests:
+      title: Private Interessen
+      info:
+        - item: Hunde und Katzen
         #  link:
 
-        #- item: Snowboarding
+        - item: Open Source Software und Webhosting
          # link:
 
-        #- item: Cooking
+        - item: Wandern und Stand-Up-Paddling (SUP)
          # link:
 
 career-profile:
