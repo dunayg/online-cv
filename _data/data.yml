@@ -9,53 +9,53 @@ sidebar:
 
     # Profile information
     name: Gábor A. Dunay
-    tagline: Facharzt für Kinder- und Jugendmedizin
+    tagline: PhD, dr.med. (Univ. Semmelweis)
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    email: gadunay@protonmail.com
+   # phone: 
+    #timezone: America/Cancun Timezone
+    #citizenship:
+    website:  #do not add http://
     linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    #xing: alandoe
+    #github: sharu725
     telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #gitlab:
+    #bitbucket:
+    twitter: '@GaborDunay'
+    #tack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Sprachen
       info:
-        - idiom: English
-          level: Native
+        - idiom: Ungarisch
+          level: Muttersprache
 
-        - idiom: French
-          level: Professional
+        - idiom: Deutsch
+          #level: 
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Englisch
+          #level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    #interests:
+     # title: Interests
+      #info:
+       # - item: Climbing
+        #  link:
 
-        - item: Snowboarding
-          link:
+        #- item: Snowboarding
+         # link:
 
-        - item: Cooking
-          link:
+        #- item: Cooking
+         # link:
 
 career-profile:
-    title: Career Profile
+    title: Facharzt für Kinder- und Jugendmedizin
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
