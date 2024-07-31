@@ -206,7 +206,7 @@ publications:
  #     bibendum fringilla a eu lectus.
     papers:
       - title: Scoring Abdominal Symptoms in People with Cystic Fibrosis 
-        link: 10.3390/jcm13061650
+        link: https://doi.org/10.3390/jcm13061650
         authors: Tabori H, Barucha A, Zagoya C, Duckstein F, Dunay GA, Sadrieh P, Polte L, Mainz JG
         conference: J Clin Med. 2024 Mar 13;13(6):1650
         
