@@ -205,6 +205,11 @@ publications:
  #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
  #     bibendum fringilla a eu lectus.
     papers:
+      - title: Scoring Abdominal Symptoms in People with Cystic Fibrosis 
+        link: 10.3390/jcm13061650
+        authors: Tabori H, Barucha A, Zagoya C, Duckstein F, Dunay GA, Sadrieh P, Polte L, Mainz JG
+        conference: J Clin Med. 2024 Mar 13;13(6):1650
+        
       - title: In-depth virological and immunological characterization of HIV-1 cure after CCR5Δ32/Δ32 allogeneic hematopoietic stem cell transplantation
         link: https://doi.org/10.1038/s41591-023-02213-x
         authors: Jensen BO, Knops E, Cords L, Lübke N, Salgado M, Busman-Sahay K, Estes JD, Huyveneers LEP, Perdomo-Celis F, Wittner M, Gálvez C, Mummert C, Passaes C, Eberhard JM, Münk C, Hauber I, Hauber J, Heger E, De Clercq J, Vandekerckhove L, Bergmann S, Dunay GA, Klein F, Häussinger D, Fischer JC, Nachtkamp K, Timm J, Kaiser R, Harrer T, Luedde T, Nijhuis M, Sáez-Cirión A, Schulze Zur Wiesch J, Wensing AMJ, Martinez-Picado J, Kobbe G
