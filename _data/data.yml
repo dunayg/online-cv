@@ -205,6 +205,11 @@ publications:
  #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
  #     bibendum fringilla a eu lectus.
     papers:
+      - title: Expansion of CD103+CD69+CD8+ cytotoxic liver tissue resident memory T cells and inflammatory monocytes in advanced biliary atresia 
+        link: https://doi.org/10.3389/fimmu.2025.1567645
+        authors: Sibbertsen F, Dress RJ, Weidemann SA, Möller K, Herden U, Fischer L, Paul K, Oh J, Tolosa E, Schulz-Jürgensen S, Gersting SW, Muntau AC, Dunay GA
+        conference: Front Immunol. 2025 Jun 18;16:1567645
+        
       - title: Scoring Abdominal Symptoms in People with Cystic Fibrosis 
         link: https://doi.org/10.3390/jcm13061650
         authors: Tabori H, Barucha A, Zagoya C, Duckstein F, Dunay GA, Sadrieh P, Polte L, Mainz JG
