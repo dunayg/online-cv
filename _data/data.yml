@@ -87,9 +87,12 @@ education:
 experiences:
     title: Beruflicher Werdegang
     info:
+      - role: Oberarzt Kinderheilkunde
+        time: 2026 - 
+        company: Universitätsklinikum Brandenburg an der Havel, Klinikum Westbrandenburg GmbH Potsdam
     
       - role: Facharzt Kinderheilkunde
-        time: 2023 - 
+        time: 2023 - 2025
         company: Universitätsklinikum Brandenburg an der Havel, Klinikum Westbrandenburg GmbH Potsdam
      
       - role: Weiterbildungsassistent Kinderheilkunde, Clinician-Scientist
